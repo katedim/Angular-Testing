@@ -23,7 +23,7 @@ To install the Angular CLI globally on your machine, run the following command:
 # How to Install this Repository
 
 1. Clone this repository: 
-```git clone https://github.com/katedim/Angular-Testing.git````
+```git clone https://github.com/katedim/Angular-Testing.git```
 
 2. Navigate into the project folder:
 ```cd Angular-Testing```
