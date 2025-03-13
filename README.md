@@ -17,4 +17,5 @@ This repository contains the code for the Angular Testing Masterclass (Angular 1
 
 # Installing the Angular CLI
 * To install the Angular CLI globally on your machine, run the following command:
+
   ``` npm install -g @angular/cli ```
