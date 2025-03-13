@@ -37,7 +37,17 @@ This project includes a backend mock server for API testing. You can start the b
 This will start a small Node.js REST API server.
 
 # To Run the Development UI Server
+To run the frontend UI of this application, you can use the Angular CLI:
+
 ``` npm start```
+
 This will serve the application on [http://localhost:4200](http://localhost:4200/).
 
+# Running the Tests with Cypress
+This project uses Cypress for end-to-end testing. To run the tests, execute the following command:
+```npx cypress open```
+Cypress will open an interactive window where you can select and run the tests.
 
+# Running Unit Tests with Jasmine (via Protractor)
+If you're running unit tests, they are managed via Jasmine (with Protractor for E2E). You can run the unit tests by using:
+```ng test```
