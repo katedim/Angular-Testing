@@ -11,3 +11,10 @@ This repository contains the code for the Angular Testing Masterclass (Angular 1
 * rxjs: 6.5.4
 * typescript: 5.6.3
 * zone.js: 0.15.0
+
+# Installation Pre-requisites
+* Please install Node.js version 18 LTS or above.
+
+# Installing the Angular CLI
+* To install the Angular CLI globally on your machine, run the following command:
+  ``` npm install -g @angular/cli ```
